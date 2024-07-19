@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of hockey with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is the puck?",
+      "answers": ["Disk", "Ball", "Stick"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "How many players per team?",
+      "answers": ["6", "5", "7"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who is Gretzky?",
+      "answers": ["Player", "Coach", "Ref"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a hat-trick?",
+      "answers": ["3 goals", "3 assists", "3 saves"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is icing?",
+      "answers": ["Violation", "Goal", "Pass"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who won 2022 Stanley Cup?",
+      "answers": ["Avs", "Bolts", "Knights"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a power play?",
+      "answers": ["Advant.", "Foul", "Goal"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Ovechkin?",
+      "answers": ["Player", "Coach", "Ref"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a faceoff?",
+      "answers": ["Puck drop", "Goal", "Penalty"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a shutout?",
+      "answers": ["No goals", "Tie", "Fight"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Crosby?",
+      "answers": ["Player", "Coach", "Ref"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a slapshot?",
+      "answers": ["Hard shot", "Pass", "Save"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the NHL?",
+      "answers": ["League", "Rule", "Team"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the blue line?",
+      "answers": ["Zone", "Foul", "Goal"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a penalty box?",
+      "answers": ["Penalty", "Goal", "Assist"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an assist?",
+      "answers": ["Pass", "Goal", "Save"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the goalie?",
+      "answers": ["Defender", "Scorer", "Coach"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a breakaway?",
+      "answers": ["Solo run", "Goal", "Save"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a power play goal?",
+      "answers": ["Advant.", "Tie", "Penalty"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the captain?",
+      "answers": ["Leader", "Coach", "Ref"],
       "correctAnswerIndex": 0
     }
   ]
